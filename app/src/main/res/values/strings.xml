@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Idemeum Sample App</string>
+    <string name="asset_statements" translatable="false">
+    </string>
+</resources>
