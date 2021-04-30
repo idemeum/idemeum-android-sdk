@@ -50,8 +50,8 @@ afterEvaluate {
                     url = 'https://github.com/idemeum/idemeum-android-sdk'
                     licenses {
                         license {
-                            name = 'Stream License'
-                            url = 'https://github.com/GetStream/stream-chat-android/blob/main/LICENSE'
+                            name = 'Idemeum License'
+                            url = 'https://github.com/idemeum/idemeum-android-sdk/blob/main/LICENSE'
                         }
                     }
                     developers {
